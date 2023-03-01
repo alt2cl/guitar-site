@@ -68,3 +68,10 @@ main {
   -webkit-line-clamp: 7;
   overflow: hidden;
 }
+
+[class*="btn"]{
+  background-color: #e99401;
+  padding: 1rem 2rem;
+  text-align: center;
+  color: #262626;
+}
